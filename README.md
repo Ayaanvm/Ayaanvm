@@ -41,7 +41,7 @@ I am Ayaan Verma, a third year college student of Bharati Vidyapeeth's College o
     
       - Decision Making
       
-         Sep 2020 - Nov 2020
+        Sep 2020 - Nov 2020
 
 
 ## Projects ✨
