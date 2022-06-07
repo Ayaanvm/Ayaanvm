@@ -1,7 +1,7 @@
 
 # Hi there! 👋
 
-I am Ayaan Verma, a third year college student of Bharati Vidyapeeth's College of Engineering (Information Technology).
+I am Ayaan Verma, a third year college student of Bharati Vidyapeeth's College of Engineering (Information Technology) with Cgpa 8.5.
 
 
 ## Skills 🌟
@@ -20,13 +20,15 @@ I am Ayaan Verma, a third year college student of Bharati Vidyapeeth's College o
 ‣ HackerRank 5 Star Gold Level Coder. 
 
 ‣ Top 1000 CodeKaze by coding Ninjas. ( Over 150,000 Participants).
-
+‣ Cleared GrapeCity round 1 for internship training. ( Goddies won )
 ‣ Participated in several Hackathons & Coding Competitions.
 ## Experience ⌛
 ‣ *Internshala Campus Ambassador*
 
-    ‣ Promoted Internshala  and Learning about various internships, 
-      workshops on being a social media influencer.
+   ‣ Skills learned:
+    - Leadership
+    - Time Management
+    - Decision Making
       
       Sep 2020 - Nov 2020
 
