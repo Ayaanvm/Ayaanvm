@@ -40,11 +40,17 @@ I am Ayaan Verma, a third year college student of Bharati Vidyapeeth's College o
 
 ## Projects ✨
 ‣ Drowsiness Detection System: Using Dlib and openCV
+
 ‣ Whats the Weather app: In Android Studios using java
+
 ‣ News Reader app: In Android Studios using java
+
 ‣ Tic-Tac-Toe app: In Android Studios using java
+
 ‣ My Location app: In Android Studios using java
+
 ‣ Brain game app: In Android Studios using java
+
 
 ## Contacts 🤝
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayaan-verma-75a306186/)
