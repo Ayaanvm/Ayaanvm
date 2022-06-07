@@ -15,6 +15,12 @@ I am Ayaan Verma, a third year college student of Bharati Vidyapeeth's College o
 
 ‣ *Android App Development*
 
+‣ *Html*
+
+‣ *Css*
+
+‣ *Python*
+
 
 ## Achievements 🏆
 ‣ HackerRank 5 Star Gold Level Coder. 
