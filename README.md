@@ -33,15 +33,15 @@ I am Ayaan Verma, a third year college student of Bharati Vidyapeeth's College o
 ## Experience ⌛
 ‣ *Internshala Campus Ambassador*
 
-   ‣ Skills learned:
+    ‣ Skills learned:
    
-    - Leadership
+      - Leadership
     
-    - Time Management
+      - Time Management
     
-    - Decision Making
+      - Decision Making
       
-      Sep 2020 - Nov 2020
+         Sep 2020 - Nov 2020
 
 
 ## Projects ✨
