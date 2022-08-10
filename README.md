@@ -25,7 +25,7 @@ I am Ayaan Verma, a third year college student of Bharati Vidyapeeth's College o
 ## Achievements 🏆
 ‣ HackerRank 5 Star Gold Level Coder. 
 
-‣ Top 1000 CodeKaze by coding Ninjas. ( Over 150,000 Participants).
+‣ Cleared Round 1 CodeKaze by coding Ninjas. ( Over 150,000 Participants).
 
 ‣ Cleared GrapeCity round 1 for internship training. ( Goddies won )
 
