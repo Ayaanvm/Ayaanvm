@@ -49,13 +49,13 @@ I am Ayaan Verma, a third year college student of Bharati Vidyapeeth's College o
 
 ‣ Whats the Weather app: In Android Studios using java
 
-‣ News Reader app: In Android Studios using java
+‣ Read the news app: In Android Studios using java
 
 ‣ Tic-Tac-Toe app: In Android Studios using java
 
 ‣ Find my Location app: In Android Studios using java
 
-‣ Brain game app: In Android Studios using java
+‣ Quick Maths game app: In Android Studios using java
 
 
 ## Contacts 🤝
