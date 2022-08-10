@@ -53,7 +53,7 @@ I am Ayaan Verma, a third year college student of Bharati Vidyapeeth's College o
 
 ‣ Tic-Tac-Toe app: In Android Studios using java
 
-‣ My Location app: In Android Studios using java
+‣ Find my Location app: In Android Studios using java
 
 ‣ Brain game app: In Android Studios using java
 
