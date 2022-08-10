@@ -7,19 +7,19 @@ I am Ayaan Verma, a third year college student of Bharati Vidyapeeth's College o
 ## Skills 🌟
 ‣ *C++*
 
-‣ *Data Structures*
-
-‣ *Algorithms*
-
-‣ *Java*
-
-‣ *Android App Development*
-
 ‣ *Html*
 
 ‣ *Css*
 
-‣ *Python*
+‣ *Data Structures*
+
+‣ *Algorithms*
+
+‣ *Java (Basic)*
+
+‣ *Android App Development (Basic)*
+
+‣ *Python (Basic)*
 
 
 ## Achievements 🏆
